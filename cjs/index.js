@@ -12,5 +12,5 @@ globalThis.console.log('Texto')
 const { sum } = require('./sum')
 console.log(sum(1,2))
 
+// Sistema de módulo: .cjs -> para utilizar CommonJS
 // .js -> por defecto utiliza CommonJS
-// .cjs -> para utilizar CommonJS
